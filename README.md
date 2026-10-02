@@ -54,7 +54,7 @@ ForkOfTheChicken has undergone significant modernization to enhance stability, d
 ### Build Instructions
 1. Clone the repository and initialize submodules:
    ```bash
-   git clone https://github.com/ays7/chicken.git
+   git clone https://github.com/ays57/chicken.git
    cd chicken
    ```
 2. Open the Xcode project:

@@ -356,7 +356,7 @@ based on VNCViewer by Helmut Maierhofer</string>
                             <font key="font" size="10" name="Helvetica"/>
                             <string key="title">Copyright 1998-2000 by Helmut Maierhofer
 Copyright 2002-2006 by Jason Harris
-Copyright 2022-2026 by ays7</string>
+Copyright 2022-2026 by ays57</string>
                             <color key="textColor" white="0.33333299" alpha="1" colorSpace="calibratedWhite"/>
                             <color key="backgroundColor" name="controlColor" catalog="System" colorSpace="catalog"/>
                         </textFieldCell>
@@ -376,7 +376,7 @@ Copyright 2022-2026 by ays7</string>
                         <textFieldCell key="cell" selectable="YES" alignment="left" id="1486">
                             <font key="font" size="10" name="Helvetica"/>
                             <string key="title">released under the GNU Public License
-source code available at https://github.com/ays7/chicken</string>
+source code available at https://github.com/ays57/chicken</string>
                             <color key="textColor" red="0.117647" green="0.19215699999999999" blue="0.45882401" alpha="1" colorSpace="calibratedRGB"/>
                             <color key="backgroundColor" name="textBackgroundColor" catalog="System" colorSpace="catalog"/>
                         </textFieldCell>
